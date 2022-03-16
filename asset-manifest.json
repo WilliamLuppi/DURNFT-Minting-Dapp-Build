@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc2691ce.chunk.css",
+    "main.js": "/static/js/main.e4d1e8c2.chunk.js",
+    "main.js.map": "/static/js/main.e4d1e8c2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.16c3955d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.16c3955d.js.map",
+    "static/js/2.693873b2.chunk.js": "/static/js/2.693873b2.chunk.js",
+    "static/js/2.693873b2.chunk.js.map": "/static/js/2.693873b2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dc2691ce.chunk.css.map": "/static/css/main.dc2691ce.chunk.css.map",
+    "static/js/2.693873b2.chunk.js.LICENSE.txt": "/static/js/2.693873b2.chunk.js.LICENSE.txt",
+    "static/media/DURLogo.4a526b4b.png": "/static/media/DURLogo.4a526b4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16c3955d.js",
+    "static/js/2.693873b2.chunk.js",
+    "static/css/main.dc2691ce.chunk.css",
+    "static/js/main.e4d1e8c2.chunk.js"
+  ]
+}
